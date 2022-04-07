@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# olá. seja bem vindo ao meu perfil👋
+## Aqui você encontará informações de tecnologia e programação. veja os meus repositórios. 
 <!--
 **Rafa2710/Rafa2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
